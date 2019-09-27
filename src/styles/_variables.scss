@@ -1,0 +1,15 @@
+// *** COLOURS ***
+$first-color: #68984E;
+$second-color: #E8ECEF;
+$third-color: #EEEEEE;
+
+// *** Z-INDEXES ***
+$z-index-lower: 1;
+$z-index-low: 10;
+$z-index-medium: 100;
+$z-index-high: 1000;
+$z-index-higher: 10000;
+
+// *** GRIDS ***
+$grid-breakpoints: ( xs: 0, sm: 576px, md: 768px, lg: 1024px, xl: 1200px);
+$container-max-widths: ( sm: 500px, md: 692px, lg: 948px, xl: 1140px);
