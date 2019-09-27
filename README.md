@@ -1,4 +1,4 @@
-# Telepass Public Site Guidelines
+# Contentful + React + Node
 
 ----
 ## first time here?
