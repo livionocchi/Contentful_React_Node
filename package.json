@@ -18,7 +18,7 @@
     "sync": "node scripts/sync.js"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "custom-env": "^1.0.2",
     "path": "^0.12.7",
